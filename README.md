@@ -6,8 +6,9 @@
 ---
 
 ## 📌 Project Overview
-This repository contains a Power BI dashboard designed to evaluate financial risk within the asset finance and leasing industry. It simulates the integration of Artificial Intelligence (AI) to automate and enhance credit evaluations, replacing manual spreadsheet-based processes with dynamic, data-driven insights.
-
+This repository contains a Power BI dashboard designed for NETSOL Technologies (A Hypothetical Company) to evaluate financial risk within the asset finance and leasing industry. It simulates the integration of Artificial Intelligence (AI) to automate and enhance credit evaluations, replacing manual spreadsheet-based processes with dynamic, data-driven insights.
+### Dashboard Overview
+![Final Dashboard Overview](images/Final.png)
 > **Note:** The interactive `.pbix` file is available in the `Dashboard/` folder.
 
 ## 🚀 Key Features & Highlights
@@ -19,11 +20,16 @@ This repository contains a Power BI dashboard designed to evaluate financial ris
 ## 📊 Iterative Development Process
 This dashboard was built using a user-centered, iterative design process to ensure it met the strict compliance and workflow needs of financial analysts:
 *   **Iteration 1:** Established core metrics (Average PD, Risk Score Trends) and basic visual analytics for initial evaluation.
+![Iteration 1](images/Iteration-1.png)
 *   **Iteration 2:** Introduced the Data Quality Overview panel to address analyst concerns regarding source data discrepancies and interpretability.
-*   **Iteration 3:** Added the "Credit Risk Assessment Insights" panel to increase transparency around the AI model's choices, alongside dynamic tooltips and a dedicated customer drill-through page.
-
+![Iteration 2](images/Iteration-2.png)
+![Iteration 2](images/Iteration-2-Insights.png)
+*   **Iteration 3:** Added the "Credit Risk Assessment Insights" and "Customer Detail" panel to increase transparency around the AI model's choices, alongside dynamic tooltips and a dedicated customer drill-through page.
+![Final Dashboard Overview](images/Final.png)
+![Iteration 3](images/Final-Insights.png)
+![Iteration 3](images/Final-Customer-Detail.png)
 ## 📂 Repository Contents
-*   `Dashboard/`: Contains the functional `Power BI Credit Risk Assessment Dashboard.pbix` file.
+*   `Dashboard/`: Contains the functional `Power BI Credit Risk Assessment Dashboard.pbix` file and also `Prototype Dashboard.pbix`, `Iteration 1.pbix` and `Iteration 2.pbix`
 *   `Images/`: Contains exported screenshots of the dashboard's various pages and iterations for quick viewing.
 
 ## 🛠️ Technologies Used
