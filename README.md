@@ -33,6 +33,7 @@ Added the "Credit Risk Assessment Insights" and "Customer Detail" panel to incre
 ![Iteration 3](images/Final-Customer-Detail.png)
 ## 📂 Repository Contents
 *   `Dashboard/`: Contains the functional `Power BI Credit Risk Assessment Dashboard.pbix` file and also `Prototype Dashboard.pbix`, `Iteration 1.pbix` and `Iteration 2.pbix`
+*   `Datasets/`: Contains the dataset used to make the Power BI dashboard.
 *   `Images/`: Contains exported screenshots of the dashboard's various pages and iterations for quick viewing.
 
 ## 🛠️ Technologies Used
