@@ -10,6 +10,8 @@ This repository contains a Power BI dashboard designed for NETSOL Technologies (
 ### Dashboard Overview
 ![Final Dashboard Overview](images/Final.png)
 > **Note:** The interactive `.pbix` file is available in the `Dashboard/` folder.
+### Link to the Dashboard
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzNiMGE5ZjktNjNlOS00NWQzLTlmOTYtNWYxYzVkZWEwYmE5IiwidCI6IjkwZGYzMGEwLTRlNDMtNGE1YS05NDE3LWY0MTNlNTcwNWY2MCIsImMiOjl9)
 
 ## 🚀 Key Features & Highlights
 *   **Predictive Analytics:** Visualizes machine-learning model outputs, including risk scores and probability of default (PD) rates.
