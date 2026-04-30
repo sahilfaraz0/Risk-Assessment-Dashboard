@@ -1,5 +1,10 @@
 # AI-Powered Credit Risk Assessment Dashboard
 
+**Author:** Sahil Faraz | **Date:** November 2025
+
+> **Academic Disclaimer:** This repository contains an academic project for the **Pearson B-TEC HND in Digital Technologies (Cybersecurity) - Unit 21: Emerging Tecnologies** module. It is strictly for portfolio and demonstration purposes. Other students may not use or copy this material for their own academic submissions.
+---
+
 ## 📌 Project Overview
 This repository contains a Power BI dashboard designed to evaluate financial risk within the asset finance and leasing industry. It simulates the integration of Artificial Intelligence (AI) to automate and enhance credit evaluations, replacing manual spreadsheet-based processes with dynamic, data-driven insights.
 
@@ -24,7 +29,3 @@ This dashboard was built using a user-centered, iterative design process to ensu
 ## 🛠️ Technologies Used
 *   **Data Visualization & Analytics:** Microsoft Power BI
 *   **Core Concepts:** Artificial Intelligence (AI), Machine Learning (ML) Integration, Data Governance, Financial Risk Modeling
-
-## 👤 Author
-**Sahil Faraz**
-*Higher National Diploma (HND) Program - Cybersecurity and Networking*
