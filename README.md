@@ -1,4 +1,4 @@
-# AI-Powered Credit Risk Assessment Dashboard
+# Credit Risk Assessment Dashboard
 
 **Author:** Sahil Faraz | **Date:** November 2025
 
