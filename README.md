@@ -19,12 +19,12 @@ This repository contains a Power BI dashboard designed for NETSOL Technologies (
 
 ## 📊 Iterative Development Process
 This dashboard was built using a user-centered, iterative design process to ensure it met the strict compliance and workflow needs of financial analysts:
-*   **Iteration 1:** Established core metrics (Average PD, Risk Score Trends) and basic visual analytics for initial evaluation.
+### **Iteration 1:** Established core metrics (Average PD, Risk Score Trends) and basic visual analytics for initial evaluation.
 ![Iteration 1](images/Iteration-1.png)
-*   **Iteration 2:** Introduced the Data Quality Overview panel to address analyst concerns regarding source data discrepancies and interpretability.
+### **Iteration 2:** Introduced the Data Quality Overview panel to address analyst concerns regarding source data discrepancies and interpretability.
 ![Iteration 2](images/Iteration-2.png)
 ![Iteration 2](images/Iteration-2-Insights.png)
-*   **Iteration 3:** Added the "Credit Risk Assessment Insights" and "Customer Detail" panel to increase transparency around the AI model's choices, alongside dynamic tooltips and a dedicated customer drill-through page.
+### **Iteration 3:** Added the "Credit Risk Assessment Insights" and "Customer Detail" panel to increase transparency around the AI model's choices, alongside dynamic tooltips and a dedicated customer drill-through page.
 ![Final Dashboard Overview](images/Final.png)
 ![Iteration 3](images/Final-Insights.png)
 ![Iteration 3](images/Final-Customer-Detail.png)
